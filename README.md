@@ -1,7 +1,7 @@
 # Pedro Henrique
 
 ## 😎 Sobre mim
-Olá! Meu nome é Pedro Henrique e sou um entusiasta da programação e da tecnologia. Sou um estudante de 16 anos, atualmente no 3° ano do ensino médio, e estudo informática no Instituto Federal de Alagoas, Campus Arapiraca.
+Olá! Meu nome é Pedro Henrique e sou um entusiasta da programação e da tecnologia. Sou um estudante de 17 anos, atualmente no 3° ano do ensino médio, e estudo informática no Instituto Federal de Alagoas, Campus Arapiraca.
 
 ## 💻 Paixão pela programação
 Desde cedo, descobri minha paixão por criar e desenvolver coisas incríveis através do código. Sou um autodidata e estou sempre em busca de aprender novas linguagens e tecnologias. Minhas principais habilidades incluem HTML, CSS, JavaScript, Java, Python, Flutter e Dart. Com elas, sou capaz de desenvolver sites, aplicativos web e também aplicativos móveis com interfaces elegantes e funcionais.
